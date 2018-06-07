@@ -1,0 +1,9 @@
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.csprojAssemblyReference.cache
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.csproj.CoreCompileInputs.cache
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.AssemblyInfoInputs.cache
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.AssemblyInfo.cs
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.dll
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\obj\Debug\netstandard2.0\bmb.pdb
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\bin\Debug\netstandard2.0\bmb.deps.json
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\bin\Debug\netstandard2.0\bmb.dll
+C:\Users\Anjani.Burra\Documents\Xamarin\bmb\bmb\bmb\bin\Debug\netstandard2.0\bmb.pdb
